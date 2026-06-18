@@ -1,0 +1,10 @@
+Flask==3.0.2
+flask-cors==4.0.0
+flask-limiter==3.5.0
+pymssql==2.3.0
+reportlab==4.1.0
+werkzeug==3.0.1
+gunicorn==21.2.0
+prophet==1.1.5
+pandas==2.2.2
+numpy<2.0.0
